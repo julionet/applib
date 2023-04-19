@@ -1,0 +1,16 @@
+PODS:
+  - AppLib (0.1.1)
+
+DEPENDENCIES:
+  - AppLib (from `../`)
+
+EXTERNAL SOURCES:
+  AppLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AppLib: 84ae5dc58b98a8eeb774df2e80729d45a5bdc691
+
+PODFILE CHECKSUM: 91eb96c5e169e50b3891569a5e8a0463a00751b9
+
+COCOAPODS: 1.12.1

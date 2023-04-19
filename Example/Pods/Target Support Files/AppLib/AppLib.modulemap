@@ -1,0 +1,6 @@
+framework module AppLib {
+  umbrella header "AppLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
